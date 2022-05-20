@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohitdass13
-- 👀 I’m interested in learning new domains of cmputer science
+- 👀 I’m interested in learning new domains of computer science
 - 🌱 I’m currently learning web development 
 - 📫 you can reach me through linkedin https://www.linkedin.com/in/mohit-kumar-2a1885213/
 
